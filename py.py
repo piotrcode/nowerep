@@ -7,3 +7,5 @@ def nwd(a,b):
         else:
             b = b - a
     return a
+
+print(nwd(m, n))

@@ -1,2 +1,2 @@
 # nowerep
-opis
+Piotr rosak grupa a2 147636
